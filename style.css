@@ -1,0 +1,119 @@
+body
+{
+margin: 0;
+text-align: center;
+background-color: beige;
+}
+
+#Contenido
+{
+background-color: pink;
+}
+
+#Contenido img
+{
+border-radius: 30%;
+border-style: inset;
+background-color: violet;
+}
+
+#Vestimenta
+{
+background-color: aquamarine;
+}
+
+#Vestimenta img
+{
+border-radius: 60%;
+border-style: groove;
+background-color: aqua;
+}
+
+#Tendencias
+{
+background-color: antiquewhite;
+}
+
+#Tendencias img
+{
+    border-radius: 30%;
+    border-style: hidden;
+    background-color: beige;
+}
+
+#unisex
+{
+background-color: bisque;
+}
+
+#unisex img
+{
+    border-radius: 40%;
+    border-style: dotted;
+    background-color: lightcoral;
+}
+
+#Contacto
+{
+background-color: beige;
+margin: 10%;
+}
+
+#Titulo-Contacto
+{
+font-size: 50px;
+}
+
+.Elemento
+{
+    list-style: none;
+    float: left;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+li a
+{
+color: darkmagenta;
+}
+
+a
+{
+text-decoration: none;
+}
+
+#Menu
+{
+    position: sticky;
+    top: 0;
+    z-index: 59;
+}
+
+ul 
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: aqua;
+}
+
+#Titulo-Intro
+{
+padding-top: 50px;
+text-align: center;
+font-size: 60px;
+}
+
+.Elemento:hover
+{
+font-size: 25px;
+text-decoration: underline;
+color: bisque;
+}
+
+
